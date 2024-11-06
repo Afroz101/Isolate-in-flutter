@@ -1,0 +1,1 @@
+ /Users/user/Documents/Afroz\ Alam/isolates/.dart_tool/flutter_build/2854aa457727dc491d6736667e134720/native_assets.yaml: 
